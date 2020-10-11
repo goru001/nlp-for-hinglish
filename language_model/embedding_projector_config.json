@@ -1,0 +1,14 @@
+
+{
+  "embeddings": [
+    {
+      "tensorName": "Code Mixed Hinglish Embedding Vectors - Latin Script",
+      "tensorShape": [
+        60000,
+        400
+      ],
+      "tensorPath": "https://github.com/goru001/nlp-for-hinglish/blob/main/language_model/ulmfit_embeddings.tsv",
+      "metadataPath": "https://github.com/goru001/nlp-for-hinglish/blob/main/language_model/ulmfit_embeddings_metadata.tsv"
+    }
+  ]
+}
