@@ -22,7 +22,7 @@ Methodology followed in this repo is detailed in [this paper](https://arxiv.org/
 
 | Architecture | Visualization |
 |:--------:|:----:|
-| ULMFiT | [Embeddings projection]() |
+| ULMFiT | [Embeddings projection](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/goru001/nlp-for-hinglish/main/language_model/embedding_projector_config.json) |
 
 
 ## Pretrained Models
